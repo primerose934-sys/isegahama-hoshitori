@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta name="robots" content="noindex, nofollow">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>力士詳細</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 16px; }
+    a { color: inherit; }
+    .wrap { max-width: 900px; margin: 0 auto; }
+    .top { display:flex; justify-content: space-between; align-items:center; gap:12px; }
+    .back { text-decoration:none; border:1px solid #ddd; padding:8px 10px; border-radius: 12px; font-weight:700; }
+    .card { border: 2px solid #ddd; border-radius: 16px; padding: 12px; background:#fff; margin-top: 12px; }
+    .card.kinboshi { border-color:#c9a227; }
+    .header { display:flex; gap:12px; align-items:center; }
+    .photo { width: 72px; height: 72px; border-radius: 14px; object-fit: cover; background:#f2f2f2; }
+    .name { font-size: 22px; font-weight: 900; }
+    .sub { font-size: 13px; opacity: .75; margin-top: 2px; }
+    .record { font-size: 28px; font-weight: 900; margin-top: 6px; }
+    .badge { display: inline-flex; align-items:center; gap:6px; font-weight:800; font-size:12px; padding:6px 10px; border-radius:999px; background:#fff7d6; border:1px solid #c9a227; }
+    table { width:100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border-bottom:1px solid #eee; padding:10px 8px; text-align:left; font-size: 14px; }
+    th { font-size:12px; opacity:.7; }
+    .pill { display:inline-flex; align-items:center; justify-content:center; min-width: 28px; padding:4px 10px; border:1px solid #ddd; border-radius:999px; font-weight:900; }
+    .pill.w { }
+    .pill.l { }
+    tr.kin { background: #fff7d6; }
+    .muted { opacity:.6; }
+    .btn { display:inline-flex; align-items:center; gap:6px; padding:8px 10px; border-radius: 12px; text-decoration:none; border:1px solid #ddd; font-weight:800; }
+    .btn:hover { background:#f6f6f6; }
+    .results { display:flex; flex-wrap:wrap; gap:6px; margin-top:10px; }
+    .dot { width: 18px; height: 18px; border-radius: 999px; display:flex; align-items:center; justify-content:center; font-size: 12px; border: 1px solid #ddd; }
+    .dot.empty { opacity:.25; }
+    tr.today { background: #e8f1ff; }          /* 今日の行（青系） */
+    tr.today.kin { background: #fff1bf; }      /* 今日＋金星なら金系を優先 */
+    .today-badge {
+        display:inline-flex;
+        align-items:center;
+        font-weight:900;
+        font-size:11px;
+        padding:3px 8px;
+        border-radius:999px;
+        border:1px solid #b7cffc;
+        background:#f3f7ff;
+        margin-left:8px;
+    }
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1 style="margin:0;">力士詳細</h1>
+    <a class="back" href="./index.html">← 一覧へ</a>
+  </div>
+
+  <div id="profile" class="card"></div>
+
+  <h2 style="margin:16px 0 6px;">取組一覧</h2>
+  <div class="muted" id="meta"></div>
+  <table>
+    <thead>
+      <tr>
+        <th>日</th>
+        <th>結果</th>
+        <th>相手</th>
+        <th>決まり手</th>
+        <th>動画</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+
+<script>
+  const JP_DIVISION = {
+    Makuuchi: "幕内",
+    Juryo: "十両",
+    Makushita: "幕下",
+    Sandanme: "三段目",
+    Jonidan: "序二段",
+    Jonokuchi: "序ノ口"
+  };
+
+  function getId() {
+    const u = new URL(location.href);
+    return u.searchParams.get("id");
+  }
+
+  function pill(result) {
+    if (result === "W") return `<span class="pill w">○</span>`;
+    if (result === "L") return `<span class="pill l">●</span>`;
+    if (result === "ABSENT") return `<span class="pill">休</span>`;
+    if (result === "FUSEN_W") return `<span class="pill">不戦勝</span>`;
+    if (result === "FUSEN_L") return `<span class="pill">不戦敗</span>`;
+    return `<span class="pill">?</span>`;
+  }
+
+  async function main() {
+    const id = getId();
+    const res = await fetch("./data.json");
+    const data = await res.json();
+
+    const r = data.rikishi.find(x => x.id === id);
+    if (!r) {
+      document.getElementById("profile").innerHTML = `<b>指定の力士が見つからない</b><div class="muted">${id || "(idなし)"}</div>`;
+      return;
+    }
+
+    const divJP = JP_DIVISION[r.division] || r.division;
+    const kin = (r.kinboshi_count || 0) > 0;
+    const profile = document.getElementById("profile");
+    profile.className = "card" + (kin ? " kinboshi" : "");
+
+    const results = Array.isArray(r.results_15) ? r.results_15 : Array(15).fill(null);
+
+    function dotFor(r) {
+        if (r === "W") return { cls: "dot w", text: "○" };
+        if (r === "L") return { cls: "dot l", text: "●" };
+        if (r === null) return { cls: "dot empty", text: "・" };
+        return { cls: "dot", text: "?" };
+    }
+
+    profile.innerHTML = `
+      <div style="display:flex; justify-content: space-between; align-items:flex-start; gap:12px;">
+        <div class="header">
+          <img class="photo" src="${r.photo_url || ''}" alt="${r.shikona}" onerror="this.style.display='none'">
+          <div>
+            <div class="name">${r.shikona}</div>
+            <div class="sub">${r.rank} / ${divJP}</div>
+            <div class="record">${r.wins}–${r.losses}</div>
+          </div>
+        </div>
+        ${kin ? `<div class="badge">金星★</div>` : ``}
+      </div>
+      ${r.today?.video_url ? `<div style="margin-top:10px;"><a class="btn" href="${r.today.video_url}" target="_blank" rel="noreferrer">▶ 今日の取組を見る</a></div>` : ``}
+      <div class="results">
+        ${results.map(x => {
+            const d = dotFor(x);
+            return `<div class="${d.cls}">${d.text}</div>`;
+        }).join("")}
+      </div>
+    `;
+
+    const bouts = data.bouts
+      .filter(b => b.rikishi_id === id)
+      .sort((a,b) => (a.day_no ?? 999) - (b.day_no ?? 999));
+
+    document.getElementById("meta").textContent =
+      `${data.meta?.tournament_id || ""} / ${bouts.length}件`;
+
+    const rows = document.getElementById("rows");
+    rows.innerHTML = bouts.map(b => {
+      const isKin = !!b.is_kinboshi;
+      const video = b.video_url
+        ? `<a class="btn" href="${b.video_url}" target="_blank" rel="noreferrer">▶</a>`
+        : `<span class="muted">—</span>`;
+      const isToday = (b.day_no === (data.meta?.day_no ?? null));
+      return `
+        <tr class="${isKin ? "kin" : ""} ${isToday ? "today" : ""}">
+          <td>${b.day_no ?? ""}</td>
+          <td>
+            ${pill(b.result)}
+            ${isToday ? `<span class="today-badge">今日</span>` : ``}
+            ${isKin ? `<span class="badge" style="padding:3px 8px; font-size:11px;">金星★</span>` : "" }
+          </td>
+          <td>${b.opponent || ""}</td>
+          <td>${b.kimarite || ""}</td>
+          <td>${video}</td>
+        </tr>
+      `;
+    }).join("");
+  }
+
+  main();
+</script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "tournament_id": "2026-01-hatsu",
+    "as_of_date": "2026-01-14",
+    "day_no": 4
+  },
+  "rikishi": [
+    {
+      "id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "shikona": "義ノ富士",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/0e73f3cf-6d51-48f0-b3b7-e9100daa21d6/yoshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VDCTLSLW%2F20260117%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260117T130333Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCTVhCXclFB%2Be29f9QZKfkEgnlzupJX3nGJFWLLHihfuAIgC%2BYzJ%2BBOO2nc2tzUo7c6twNkvVbRyxJxuTTmgUso5z0q%2FwMIZBAAGgw2Mzc0MjMxODM4MDUiDOK3m4ny5WhgIsGApyrcAxmrGl8cLmX%2B2fi03HZKoHunbkPGKdalg1DIaz7%2BBykco16bHSyo2mjQhvdnk%2FFFiVocFLv%2B4UhiIxEY98QvE8pnZj5uyLBFY6nUioLKaySF3oJ7NBGt6OaCzCM7h6ADnyEYRhj5c36GVX5V04HdMjS3CkGBCUbPz27xCA2MzW7J7AlSkeMmWYN5wobzP%2BWcE0V6aWJL%2BMNy81eQCRwRp77k5r8C3IjFWs64D%2FNCu7j1%2B39rEC8RCTf9rKEWkxow5iUQ37XrG5yTJo%2F7f31XIv6TUVztgUdxdpfLddueV4lTevmyizrU1B7AKWcovDx%2FAav74M486tlH6EvYkxdPy8rEPcqgnIWzggx5HKvFbrL5oUJy%2FyhqLP8v%2Bp8OP2Kw0o0CJQui84Xv9HunhUQMyLwkRsausC%2F%2BZg%2FOVTJTK%2Fs%2F26mct4fx7ni%2BHiXPdfvKPsDLFgYpW3enXFQET3OduQBplSGNSegHNqlKoq0F5D9r89imUFYPj23WpgkITVlli1vC8pUjR0%2FXoAU5uWvbC1wzT1BeUSuJkNfmDPRVlccdyf88JgvjGxBh1WYbDVEZmbqShBMQrRf3%2FCM90oBigw1gl7omn2giRF7nZl4sjUltVkexupB9AEp4wydSMObJrcsGOqUBZfTqZwe53WRBT3FPfxcbWgigUC%2FiMR8Mjhle4eukqxuC3T1y0LroopoUEZ2C0%2BMNf0j91tqqafaipIYDkakpcLSL7YiiXThHqtem6xxDZBE7fbeAvV8P1y9jJSSoOriqhXVv6%2FP3%2FLO%2F83W%2ByUrJ3scHyc7UAEzAvAHF0t%2BU6LxVLR9xB2T0OiA1JJZkAdwZC%2B2L8QcEjJqC4ASX1zLGIKhs6Kow&X-Amz-Signature=476fb7922e076af29a2d68aba9281ebfc66f6a3f7770d70be0336c72a2d04583&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "rank": "西前頭筆頭",
+      "division": "Makuuchi",
+      "bio_short": "右四つ・寄り",
+      "sort_order": 10,
+      "wins": 2,
+      "losses": 2,
+      "kinboshi_count": 2,
+      "results_15": [
+        "L",
+        "L",
+        "W",
+        "W",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "today": {
+        "date": "2026-01-14",
+        "result": "W",
+        "opponent": "大の里",
+        "kimarite": "上手投げ",
+        "is_kinboshi": true,
+        "video_url": "https://youtu.be/0CtadR7lCI8?si=hQzUunJoSk3uMTyq"
+      }
+    }
+  ],
+  "bouts": [
+    {
+      "id": "2e8b14e3-2111-8018-a259-e7c54946f27a",
+      "date": "2026-01-14",
+      "day_no": 4,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "大の里",
+      "result": "W",
+      "kimarite": "上手投げ",
+      "is_kinboshi": true,
+      "video_url": "https://youtu.be/0CtadR7lCI8?si=hQzUunJoSk3uMTyq",
+      "note": ""
+    },
+    {
+      "id": "2ebb14e3-2111-800c-8466-ded178aea47d",
+      "date": "2026-01-14",
+      "day_no": 3,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "豊昇龍",
+      "result": "W",
+      "kimarite": "寄り切り",
+      "is_kinboshi": true,
+      "video_url": "https://youtu.be/-qleDQ3IU50?si=meGXsHmCHaY97hbG",
+      "note": ""
+    },
+    {
+      "id": "2ebb14e3-2111-808d-ab03-f5fbda917d59",
+      "date": "2026-01-14",
+      "day_no": 1,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "琴櫻",
+      "result": "L",
+      "kimarite": "送り出し",
+      "is_kinboshi": false,
+      "video_url": "https://youtu.be/4Chf58Z8kiI?si=5zk5i8peN-m5srRT",
+      "note": ""
+    },
+    {
+      "id": "2ebb14e3-2111-8099-ad3a-fec3f18efd2e",
+      "date": "2026-01-14",
+      "day_no": 2,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "安青錦",
+      "result": "L",
+      "kimarite": "首投げ",
+      "is_kinboshi": false,
+      "video_url": "https://youtu.be/_KM_nzhwkBs?si=-HmCeLpr5YxDAFiP",
+      "note": ""
+    }
+  ]
+}
