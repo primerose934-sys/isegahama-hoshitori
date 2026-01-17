@@ -2,28 +2,28 @@
   "meta": {
     "tournament_id": "2026-01-hatsu",
     "as_of_date": "2026-01-14",
-    "day_no": 4
+    "day_no": 7
   },
   "rikishi": [
     {
       "id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
       "shikona": "義ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/0e73f3cf-6d51-48f0-b3b7-e9100daa21d6/yoshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466VDCTLSLW%2F20260117%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260117T130333Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQCTVhCXclFB%2Be29f9QZKfkEgnlzupJX3nGJFWLLHihfuAIgC%2BYzJ%2BBOO2nc2tzUo7c6twNkvVbRyxJxuTTmgUso5z0q%2FwMIZBAAGgw2Mzc0MjMxODM4MDUiDOK3m4ny5WhgIsGApyrcAxmrGl8cLmX%2B2fi03HZKoHunbkPGKdalg1DIaz7%2BBykco16bHSyo2mjQhvdnk%2FFFiVocFLv%2B4UhiIxEY98QvE8pnZj5uyLBFY6nUioLKaySF3oJ7NBGt6OaCzCM7h6ADnyEYRhj5c36GVX5V04HdMjS3CkGBCUbPz27xCA2MzW7J7AlSkeMmWYN5wobzP%2BWcE0V6aWJL%2BMNy81eQCRwRp77k5r8C3IjFWs64D%2FNCu7j1%2B39rEC8RCTf9rKEWkxow5iUQ37XrG5yTJo%2F7f31XIv6TUVztgUdxdpfLddueV4lTevmyizrU1B7AKWcovDx%2FAav74M486tlH6EvYkxdPy8rEPcqgnIWzggx5HKvFbrL5oUJy%2FyhqLP8v%2Bp8OP2Kw0o0CJQui84Xv9HunhUQMyLwkRsausC%2F%2BZg%2FOVTJTK%2Fs%2F26mct4fx7ni%2BHiXPdfvKPsDLFgYpW3enXFQET3OduQBplSGNSegHNqlKoq0F5D9r89imUFYPj23WpgkITVlli1vC8pUjR0%2FXoAU5uWvbC1wzT1BeUSuJkNfmDPRVlccdyf88JgvjGxBh1WYbDVEZmbqShBMQrRf3%2FCM90oBigw1gl7omn2giRF7nZl4sjUltVkexupB9AEp4wydSMObJrcsGOqUBZfTqZwe53WRBT3FPfxcbWgigUC%2FiMR8Mjhle4eukqxuC3T1y0LroopoUEZ2C0%2BMNf0j91tqqafaipIYDkakpcLSL7YiiXThHqtem6xxDZBE7fbeAvV8P1y9jJSSoOriqhXVv6%2FP3%2FLO%2F83W%2ByUrJ3scHyc7UAEzAvAHF0t%2BU6LxVLR9xB2T0OiA1JJZkAdwZC%2B2L8QcEjJqC4ASX1zLGIKhs6Kow&X-Amz-Signature=476fb7922e076af29a2d68aba9281ebfc66f6a3f7770d70be0336c72a2d04583&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/0e73f3cf-6d51-48f0-b3b7-e9100daa21d6/yoshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663P77RKSM%2F20260117%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260117T140846Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIFUmsXYRuKJsIhrdE5bNaXg5hJt%2B0JhYaET3Q6ptoTGHAiEApwgl7BFUDK2NRbsCNLWdbKKASwvXN4bcfhVgEn8CekMq%2FwMIZBAAGgw2Mzc0MjMxODM4MDUiDJZnqjo%2Bq75OGUSnhircAysgOcWtxVoPwf0%2BIXYtmanszuydV5Yuazd1uHDREp9LplxSdbD8y7rtnXof8VOb5KLe2hDvWiOpVQHJ2iruxyRUmuIWbeOmUa8REc9UmxZbuxdyfQYwmxGXtzo%2FMMCY1X9gamiVbGtSxxu91ADCWs6ZgwawXs6I3jM8eqzdvLRlJ%2BQC5vd0UUU1tEDHBLtjOcouY9ssC32yngZRu6W9YLwqPYpEXyEa3%2FIyRLjmfvnUyi7JArcorQ7bWm3vw7dqbbYiuPOrVco3SADa9H%2FlPxHr8OIhaTzy5nTi0KjPtMX9mu3s0p9Vnm8LjMPefVQWqyVJ32pFh2Hn9RfpHcNEXX%2B0ZDwEo4IyTB8cYQpPKvcH8Qb%2FdZDl8Q2%2BdTGo5bY40%2Fvi7I6KLpJ87sExbud12%2FRCgd%2Fe%2FxeZrE%2BAYXiUd4mabJBCEOJXQ4nivzzSiXNlu3p0eU2u8nxEHPAehJFFYZWJOFTKy8HRjhil0mRDRb8peax6sHVYuV71gAMRmPAn2qsUDhKB6LisQxlqHHNPpka17SUN%2BWSiGDh24wAg%2Br%2BUzz55kVTjJbjEOc%2F8aBFm9mUauQQpM1NTg6xGpA4mgBfohiGvIoP0G%2ByQDBHbrZ3DzB8s8oVh4asyiGqwML3KrcsGOqUBLchsQCQvnX9oPGjtWgiepo3gdNY1EE%2BXraBLqP%2FfNrEQNF5Gkq5oW0v%2BuheYLkw7628cVVuRPBgFKUoqYG3HVGwyxyn7gue0wei4MA%2Be73GT26euuAIJSY7HyjI9qSRZzrPW5q2s61WviO29ZS1wFeRtXxAsBwfR8Yx%2FXYObDegFD7z5D%2Fcd13QiVacR68gEBmIcs281GK%2B3qD3xJXJ2cIKKnJsB&X-Amz-Signature=4f5d0af6072d612df850e49fb20620e9321e51fea6431045032a304fad1a9160&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西前頭筆頭",
       "division": "Makuuchi",
       "bio_short": "右四つ・寄り",
       "sort_order": 10,
-      "wins": 2,
-      "losses": 2,
+      "wins": 4,
+      "losses": 3,
       "kinboshi_count": 2,
       "results_15": [
         "L",
         "L",
         "W",
         "W",
-        null,
-        null,
-        null,
+        "W",
+        "W",
+        "L",
         null,
         null,
         null,
@@ -35,11 +35,11 @@
       ],
       "today": {
         "date": "2026-01-14",
-        "result": "W",
-        "opponent": "大の里",
+        "result": "L",
+        "opponent": "霧島",
         "kimarite": "上手投げ",
-        "is_kinboshi": true,
-        "video_url": "https://youtu.be/0CtadR7lCI8?si=hQzUunJoSk3uMTyq"
+        "is_kinboshi": false,
+        "video_url": "https://youtu.be/5fe2BMNGq-I?si=lJ1NOIRuhBPsV_Vm"
       }
     }
   ],
@@ -71,6 +71,32 @@
       "note": ""
     },
     {
+      "id": "2ebb14e3-2111-8019-b2db-d5e93eec61b3",
+      "date": "2026-01-14",
+      "day_no": 7,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "霧島",
+      "result": "L",
+      "kimarite": "上手投げ",
+      "is_kinboshi": false,
+      "video_url": "https://youtu.be/5fe2BMNGq-I?si=lJ1NOIRuhBPsV_Vm",
+      "note": ""
+    },
+    {
+      "id": "2ebb14e3-2111-801d-8797-e53dc0cc0fb5",
+      "date": "2026-01-14",
+      "day_no": 5,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "一山本",
+      "result": "W",
+      "kimarite": "寄り切り",
+      "is_kinboshi": false,
+      "video_url": "https://youtu.be/GKXvn_-YCnk?si=4NT86Ft7AmHnKh2P",
+      "note": ""
+    },
+    {
       "id": "2ebb14e3-2111-808d-ab03-f5fbda917d59",
       "date": "2026-01-14",
       "day_no": 1,
@@ -94,6 +120,19 @@
       "kimarite": "首投げ",
       "is_kinboshi": false,
       "video_url": "https://youtu.be/_KM_nzhwkBs?si=-HmCeLpr5YxDAFiP",
+      "note": ""
+    },
+    {
+      "id": "2ebb14e3-2111-80c6-9147-ee18014b8dcb",
+      "date": "2026-01-14",
+      "day_no": 6,
+      "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
+      "rikishi": "",
+      "opponent": "宇良",
+      "result": "W",
+      "kimarite": "押し倒し",
+      "is_kinboshi": false,
+      "video_url": "https://youtu.be/LNQrLFvjT_M?si=IaCLQPJd4XxIvMIW",
       "note": ""
     }
   ]
