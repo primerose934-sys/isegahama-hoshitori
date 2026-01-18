@@ -131,6 +131,47 @@
       15%  { opacity:1; }
       100% { opacity:0; transform: translate(-50%,-120%) scale(1.4); }
     }
+
+    .section{
+      margin: 18px 0 28px;
+    }
+    .section-title{
+      display:flex;
+      align-items:baseline;
+      gap:10px;
+      font-weight: 900;
+      font-size: 18px;
+      margin: 10px 0 12px;
+    }
+    .section-title .count{
+      font-weight: 700;
+      font-size: 13px;
+      color:#666;
+    }
+    .section-divider{
+      height:1px;
+      background: rgba(0,0,0,.08);
+      margin: 8px 0 16px;
+    }
+
+    /* 区分(section)は縦に積む */
+    #grid{
+      display: block !important;
+    }
+
+    /* 区分ごとの見出し・区切りを横いっぱいに */
+    .section{
+      width: 100%;
+      display: block;
+    }
+
+    /* 各区分内のカード並びは今まで通りグリッド */
+    .section .grid{
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 16px;
+    }
+
   </style>
 </head>
 <body>
@@ -158,6 +199,67 @@
     if (r === "L") return { cls: "dot l", text: "●" };
     if (r === null) return { cls: "dot empty", text: "・" };
     return { cls: "dot", text: "?" };
+  }
+
+  function divLabel(div){
+    return JP_DIVISION[div] || (div ?? "その他");
+  }
+
+  function renderCard(r){
+    const kin = (r.kinboshi_count || 0) > 0 || (r.today?.is_kinboshi);
+    const divJP = divLabel(r.division);
+    const todayMark = r.today?.result === "W" ? "○" : r.today?.result === "L" ? "●" : "・";
+    const results = Array.isArray(r.results_15) ? r.results_15 : Array(15).fill(null);
+
+    const card = document.createElement("div");
+    card.className = "card" + (kin ? " kinboshi" : "");
+
+    card.innerHTML = `
+      <div class="card-main">
+        <div class="photo-wrap">
+          <img class="photo" src="${r.photo_url || ''}" alt="${r.shikona}" onerror="this.style.display='none'">
+        </div>
+
+        <div class="info">
+          <div class="topline">
+            <div>
+              <div class="name">${r.shikona}</div>
+              <div class="rank">${r.rank} / ${divJP}</div>
+            </div>
+            ${kin ? `<div class="badge">金星★</div>` : ``}
+          </div>
+
+          <div class="record">${r.wins}–${r.losses}</div>
+          <div class="status">${statusText(r.wins, r.losses)}</div>
+
+          <div class="results">
+            ${results.map(x => {
+              const d = dotFor(x);
+              return `<div class="${d.cls}">${d.text}</div>`;
+            }).join("")}
+          </div>
+
+          <div class="row">
+            <div>今日：<b>${todayMark}</b></div>
+          </div>
+
+          <div class="links">
+            ${r.today?.video_url ? `<a class="btn" href="${r.today.video_url}" target="_blank" rel="noreferrer">▶ 今日の取組を見る</a>` : ``}
+
+            <a class="btn" href="rikishi.html?id=${encodeURIComponent(r.id)}">▶ 詳細</a>
+
+            <button class="oshi-btn oshi-icon" type="button" data-oshi-id="${r.id}" aria-label="推し">
+              <span class="icon">♡</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    `;
+
+    const ob = card.querySelector(".oshi-btn");
+    if (ob) updateOshiButton(ob, r.id);
+
+    return card;
   }
 
   /* ===== 推し活（端末ローカル保存） ===== */
@@ -189,60 +291,59 @@
     const data = await res.json();
     const grid = document.getElementById("grid");
 
-    data.rikishi.forEach(r => {
-      const kin = (r.kinboshi_count || 0) > 0 || (r.today?.is_kinboshi);
-      const divJP = JP_DIVISION[r.division] || r.division;
-      const todayMark = r.today?.result === "W" ? "○" : r.today?.result === "L" ? "●" : "・";
-      const results = Array.isArray(r.results_15) ? r.results_15 : Array(15).fill(null);
+    // いったん空にする
+    grid.innerHTML = "";
 
-      const card = document.createElement("div");
-      card.className = "card" + (kin ? " kinboshi" : "");
+    // division ごとにまとめる
+    const groups = new Map();
+    for (const r of data.rikishi){
+      const key = r.division || "Other";
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(r);
+    }
 
-      card.innerHTML = `
-        <div class="card-main">
-          <div class="photo-wrap">
-            <img class="photo" src="${r.photo_url || ''}" alt="${r.shikona}" onerror="this.style.display='none'">
-          </div>
+    // 並び順（division内）：sort_order → rank
+    for (const [key, arr] of groups){
+      arr.sort((a,b) => {
+        const sa = Number.isFinite(+a.sort_order) ? +a.sort_order : 999999;
+        const sb = Number.isFinite(+b.sort_order) ? +b.sort_order : 999999;
+        if (sa !== sb) return sa - sb;
+        return String(a.rank||"").localeCompare(String(b.rank||""), "ja");
+      });
+    }
 
-          <div class="info">
-            <div class="topline">
-              <div>
-                <div class="name">${r.shikona}</div>
-                <div class="rank">${r.rank} / ${divJP}</div>
-              </div>
-              ${kin ? `<div class="badge">金星★</div>` : ``}
-            </div>
-
-            <div class="record">${r.wins}–${r.losses}</div>
-            <div class="status">${statusText(r.wins, r.losses)}</div>
-
-            <div class="results">
-              ${results.map(x => {
-                const d = dotFor(x);
-                return `<div class="${d.cls}">${d.text}</div>`;
-              }).join("")}
-            </div>
-
-            <div class="row">
-              <div>今日：<b>${todayMark}</b></div>
-            </div>
-
-            <div class="links">
-              ${r.today?.video_url ? `<a class="btn" href="${r.today.video_url}" target="_blank" rel="noreferrer">▶ 今日の取組を見る</a>` : ``}
-
-              <a class="btn" href="rikishi.html?id=${encodeURIComponent(r.id)}">▶ 詳細</a>
-
-              <button class="oshi-btn oshi-icon" type="button" data-oshi-id="${r.id}" aria-label="推し">
-                <span class="icon">♡</span>
-              </button>
-            </div>
-          </div>
-        </div>
-      `;
-      const ob = card.querySelector(".oshi-btn");
-      if (ob) updateOshiButton(ob, r.id);
-      grid.appendChild(card);
+    // division の表示順
+    const DIV_ORDER = ["Makuuchi","Juryo","Makushita","Sandanme","Jonidan","Jonokuchi"];
+    const keys = Array.from(groups.keys()).sort((a,b)=>{
+      const ia = DIV_ORDER.indexOf(a);
+      const ib = DIV_ORDER.indexOf(b);
+      return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
     });
+
+    // section を作って差し込む
+    for (const key of keys){
+      const section = document.createElement("div");
+      section.className = "section";
+
+      const title = document.createElement("div");
+      title.className = "section-title";
+      title.innerHTML = `${divLabel(key)} <span class="count">${groups.get(key).length}人</span>`;
+      section.appendChild(title);
+
+      const divider = document.createElement("div");
+      divider.className = "section-divider";
+      section.appendChild(divider);
+
+      const g = document.createElement("div");
+      g.className = "grid";
+      section.appendChild(g);
+
+      for (const r of groups.get(key)){
+        g.appendChild(renderCard(r));
+      }
+
+      grid.appendChild(section);
+    }
   }
 
   document.addEventListener("click", (e) => {
