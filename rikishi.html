@@ -94,6 +94,61 @@
     .profile-main{ grid-template-columns: 130px 1fr; }
     .profile-photo-wrap{ width: 130px; }
     }
+
+    /* ===== 推し活 ===== */
+    .oshi-btn{
+        appearance:none;
+        border:1px solid #ddd;
+        background: rgba(255,255,255,.92);
+        border-radius: 12px;               /* btnと同じ丸み */
+        padding: 8px 10px;
+        display:inline-flex;
+        align-items:center;
+        gap:6px;
+        font-weight: 700;
+        font-size: 13px;
+        color:#111;
+        cursor:pointer;
+        user-select:none;
+    }
+
+    .oshi-btn.oshi-icon{
+        border-radius: 999px;
+        width: 40px;
+        height: 36px;
+        padding: 0;
+        justify-content: center;
+    }
+    .oshi-btn.oshi-icon .icon{
+        font-size: 18px;
+    }
+
+    .oshi-btn:hover { background:#f6f6f6; }
+
+    .oshi-btn .icon{ font-size: 14px; line-height: 1; }
+    .oshi-btn.on{
+        border-color:#e35d6a;
+        background: rgba(227,93,106,.08);
+    }
+    .oshi-btn.on .icon{
+        color:#e35d6a;
+    }
+
+    .heart-pop{
+        position: fixed;
+        z-index: 9999;
+        pointer-events: none;
+        font-size: 18px;
+        transform: translate(-50%,-50%);
+        animation: heartFloat 700ms ease-out forwards;
+        text-shadow: 0 2px 10px rgba(0,0,0,.15);
+    }
+    @keyframes heartFloat{
+    0%   { opacity:0; transform: translate(-50%,-30%) scale(.9); }
+    15%  { opacity:1; }
+    100% { opacity:0; transform: translate(-50%,-120%) scale(1.4); }
+    }
+
   </style>
 </head>
 <body>
@@ -145,6 +200,29 @@
     return `<span class="pill">?</span>`;
   }
 
+  /* ===== 推し活（端末ローカル保存） ===== */
+  const OSHI_KEY_PREFIX = "isegahama:oshi:";
+  function oshiKey(id){ return OSHI_KEY_PREFIX + id; }
+  function getOshi(id){ return localStorage.getItem(oshiKey(id)) === "1"; }
+  function setOshi(id, on){ localStorage.setItem(oshiKey(id), on ? "1" : "0"); }
+
+  function popHeart(x, y){
+    const el = document.createElement("div");
+    el.className = "heart-pop";
+    el.textContent = "♥";
+    el.style.left = x + "px";
+    el.style.top  = y + "px";
+    document.body.appendChild(el);
+    setTimeout(() => el.remove(), 800);
+  }
+
+  function updateOshiButton(btn, id){
+    const on = getOshi(id);
+    btn.classList.toggle("on", on);
+    btn.querySelector(".icon").textContent = on ? "♥" : "♡";
+  }
+
+
   async function main() {
     const id = getId();
     const res = await fetch("./data.json");
@@ -183,7 +261,13 @@
                 <div class="sub">${r.rank} / ${divJP}</div>
                 <div class="record">${r.wins}–${r.losses}</div>
                 </div>
-                ${kin ? `<div class="badge">金星★</div>` : ``}
+
+                <div style="display:flex; gap:10px; align-items:flex-start;">
+                    <button class="oshi-btn oshi-icon" type="button" data-oshi-id="${r.id}" aria-label="推し">
+                        <span class="icon">♡</span>
+                    </button>
+                    ${kin ? `<div class="badge">金星★</div>` : ``}
+                </div>
             </div>
 
             ${r.today?.video_url ? `<div style="margin-top:8px;"><a class="btn" href="${r.today.video_url}" target="_blank" rel="noreferrer">▶ 今日の取組を見る</a></div>` : ``}
@@ -198,6 +282,8 @@
         </div>
     `;
 
+    const ob = profile.querySelector(".oshi-btn");
+    if (ob) updateOshiButton(ob, r.id);
 
     const bouts = data.bouts
       .filter(b => b.rikishi_id === id)
@@ -228,6 +314,29 @@
       `;
     }).join("");
   }
+
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest(".oshi-btn");
+    if (!btn) return;
+
+    const id = btn.dataset.oshiId;
+    if (!id) return;
+
+    if (e.shiftKey){
+        setOshi(id, false);
+        updateOshiButton(btn, id);
+        return;
+    }
+
+    const next = !getOshi(id);
+    setOshi(id, next);
+    updateOshiButton(btn, id);
+
+    if (next){
+        const rect = btn.getBoundingClientRect();
+        popHeart(rect.left + rect.width/2, rect.top + rect.height/2);
+    }
+  });
 
   main();
 </script>
