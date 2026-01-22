@@ -1,20 +1,20 @@
 {
   "meta": {
     "tournament_id": "2026-01-hatsu",
-    "as_of_date": "2026-01-21",
-    "day_no": 11
+    "as_of_date": "2026-01-22",
+    "day_no": 12
   },
   "rikishi": [
     {
       "id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
       "shikona": "義ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/0e73f3cf-6d51-48f0-b3b7-e9100daa21d6/yoshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=7cf0561359da5aa2d5dbb00b0cbfb626a23e2722795877846accf498e08e8aed&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/0e73f3cf-6d51-48f0-b3b7-e9100daa21d6/yoshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=7f4f91f9c7a01c32572a9aa0ffbf38db7c96133caa70181f7b9a104adab78a7b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西前頭筆頭",
       "division": "Makuuchi",
       "bio_short": "右四つ・寄り",
       "sort_order": 10,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "kinboshi_count": 2,
       "results_15": [
         "L",
@@ -28,30 +28,30 @@
         "W",
         "L",
         "W",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "王鵬",
-        "kimarite": "上手投げ",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "若隆景",
+        "kimarite": "寄り切り",
         "is_kinboshi": false,
-        "video_url": "https://youtu.be/jGgjRiBtEmM?si=zQgDDBawViIBNy_V"
+        "video_url": "https://youtu.be/78BxhtyFQSs?si=Z79cshGgzPzzF_fo"
       }
     },
     {
       "id": "2ebb14e3-2111-8011-b9e2-f28e8fbce111",
       "shikona": "伯乃富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/32d1a89f-7d23-4c56-8575-c7ecd0f6aa24/hakunofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=b421054537c74801a239dd65923fcb89e36c796cd84de425133e4285504f6e04&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/32d1a89f-7d23-4c56-8575-c7ecd0f6aa24/hakunofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=0deeda8910b3f9b7532720565e1ec905b0e65defced703f27eca597ecd7c36da&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西前頭三枚目",
       "division": "Makuuchi",
       "bio_short": "突き・押し・左四つ・寄り",
       "sort_order": 20,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "kinboshi_count": 1,
       "results_15": [
         "W",
@@ -65,30 +65,30 @@
         "L",
         "L",
         "L",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
+        "date": "2026-01-22",
         "result": "L",
-        "opponent": "安青錦",
-        "kimarite": "下田投げ",
+        "opponent": "宇良",
+        "kimarite": "肩透かし",
         "is_kinboshi": false,
-        "video_url": "https://youtu.be/IvV5PZ5d_w4?si=ImI_LeajydI8NHjZ"
+        "video_url": "https://youtu.be/K37nL036FFg?si=yvtMGQv-0qi9NOCK"
       }
     },
     {
       "id": "2ebb14e3-2111-805b-83b0-d8e3c6ffc76a",
       "shikona": "熱海富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a462bdc2-c717-4baa-b147-00b8f14d24c1/atamifuji.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=ac9cfa8147afa6d9199292aac89d983bbc5df2afba37693349694ecd15726519&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a462bdc2-c717-4baa-b147-00b8f14d24c1/atamifuji.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=45bfb819df11ed6c3d144b2cc57d57da3e3325ce7a5f6907f3a3de7808e66e9b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西前頭四枚目",
       "division": "Makuuchi",
       "bio_short": "右四つ・寄り",
       "sort_order": 30,
       "wins": 9,
-      "losses": 2,
+      "losses": 3,
       "kinboshi_count": 2,
       "results_15": [
         "L",
@@ -102,30 +102,30 @@
         "W",
         "W",
         "W",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "藤ノ川",
-        "kimarite": "送り出し",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "安青錦",
+        "kimarite": "寄り切り",
         "is_kinboshi": false,
-        "video_url": "https://youtu.be/cSz003ZwQjI?si=ivZErHililppjCMq"
+        "video_url": "https://youtu.be/Nc7gdRDsLx0?si=4kcLtyWIpLlf48Ix"
       }
     },
     {
       "id": "2ebb14e3-2111-8091-ab23-c6a8af95ca64",
       "shikona": "錦富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/1dca8db3-0bd0-4afc-a4c7-f8bc924ee903/Nishikifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=6f0edf1926e01c5ad769ccc06cecaaeb5cbce3c285cb13dac79394b5e8147eb5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/1dca8db3-0bd0-4afc-a4c7-f8bc924ee903/Nishikifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=3f6c11664993d6452d3151e7892d409c895ceeb4ebeee51e6a9a09435e8d7355&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西前頭十一枚目",
       "division": "Makuuchi",
       "bio_short": "左四つ・寄り",
       "sort_order": 40,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "kinboshi_count": 0,
       "results_15": [
         "W",
@@ -139,16 +139,16 @@
         "W",
         "L",
         "L",
-        null,
+        "FUSEN_L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
-        "opponent": "欧勝海",
-        "kimarite": "外掛け",
+        "date": "2026-01-22",
+        "result": "FUSEN_L",
+        "opponent": "阿武剋",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -156,13 +156,13 @@
     {
       "id": "2ebb14e3-2111-80df-bc6d-e99b04350054",
       "shikona": "翠富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/1971f802-93e1-433c-a3b1-9836f133f831/Midorifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=419f2553cba9b27e7c02c1f511bf49b137ce533ae3076446c1b78e7749a8674c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/1971f802-93e1-433c-a3b1-9836f133f831/Midorifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=a3625a334f2215b4cae3ac0f0a302493aae25d59663f97e1922515fe3f6485c2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東前頭十二枚目",
       "division": "Makuuchi",
       "bio_short": "押し・肩透かし",
       "sort_order": 50,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "kinboshi_count": 0,
       "results_15": [
         "L",
@@ -176,16 +176,16 @@
         "L",
         "W",
         "W",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "竜電",
-        "kimarite": "肩透かし",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "正代",
+        "kimarite": "小手投げ",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -193,12 +193,12 @@
     {
       "id": "2ebb14e3-2111-8052-92ff-fc83e16e2a8d",
       "shikona": "尊富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/e52e5180-918b-460f-b91c-e51b80015250/Takerufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=6cb93bfdf506a3b451cd71dccc60872bf3a0d01ac214dbcedfe13fc65a6145ab&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/e52e5180-918b-460f-b91c-e51b80015250/Takerufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=2031caec22e1d0d08c1f4bf7dfc1d539738f129daca298d9b62c899ea90abb83&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西十両五枚目",
       "division": "Juryo",
       "bio_short": "突き・押し",
       "sort_order": 100,
-      "wins": 6,
+      "wins": 7,
       "losses": 5,
       "kinboshi_count": 0,
       "results_15": [
@@ -213,24 +213,24 @@
         "W",
         "L",
         "W",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
+        "date": "2026-01-22",
         "result": "W",
-        "opponent": "大青山",
-        "kimarite": "押し出し",
+        "opponent": "白熊",
+        "kimarite": "押し倒し",
         "is_kinboshi": false,
-        "video_url": "https://youtu.be/hsaJLmak9ZU?si=w5o35u6fkhnIwaEQ"
+        "video_url": ""
       }
     },
     {
       "id": "2ebb14e3-2111-80db-b6e7-f27e35397659",
       "shikona": "寿之富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/4d327eb0-ca71-4d71-b3af-80bf349bd53a/Toshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=dccce10132de57805e97cd971822033490ac02f25a9e3d435bb2fc0eb35e74e3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/4d327eb0-ca71-4d71-b3af-80bf349bd53a/Toshinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=9be9a4d25c5dc150bb65902bfca572749a3799332e7c9fd024ead4d75b964071&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西幕下二枚目",
       "division": "Makushita",
       "bio_short": "",
@@ -256,10 +256,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
+        "date": "2026-01-22",
+        "result": "",
         "opponent": "島津海",
-        "kimarite": "寄り切り",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -267,12 +267,12 @@
     {
       "id": "2ebb14e3-2111-8004-9bc2-dd9d903af5e9",
       "shikona": "三重ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/4af7f924-8d58-494a-83db-e80c647e1a11/Mienofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=1523b60e72efb7870abba6bf36f4d35a2cc3821f2acee941dbc76ab2b512117c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/4af7f924-8d58-494a-83db-e80c647e1a11/Mienofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=3f17c9100033b70ead5b3db6a09cfed9ed1b28544b92bbc79d024c29de6a0b61&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西幕下六枚目",
       "division": "Makushita",
       "bio_short": "押し",
       "sort_order": 2000,
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
       "kinboshi_count": 0,
       "results_15": [
@@ -287,16 +287,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "黒姫山",
+        "kimarite": "押し出し",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -304,13 +304,13 @@
     {
       "id": "2ebb14e3-2111-806b-b206-e618c09a9cbe",
       "shikona": "嵐富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/66595b8d-6ca0-407c-8495-61612ac349af/Arashifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=08a071fe145eb7ca2f8dad8d49f805eef7f3075ea151e400dc49f928a0f9c912&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/66595b8d-6ca0-407c-8495-61612ac349af/Arashifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=7179579bbeb22a0f4bb4310e09a8a69fe596921dc31290084345d495e6962b65&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西幕下九枚目",
       "division": "Makushita",
       "bio_short": "",
       "sort_order": 3000,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
         "W",
@@ -324,16 +324,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "花岡",
+        "kimarite": "小手投げ",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -341,7 +341,7 @@
     {
       "id": "2ebb14e3-2111-807f-bec1-feeb1f8d02aa",
       "shikona": "炎鵬",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/5493bc7c-9090-4c74-ada7-264f80872ead/Enhou.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=bf2d324db2b6fd7024a110895ded09cc5626dc708e696db780486ae05e8b0f2f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/5493bc7c-9090-4c74-ada7-264f80872ead/Enhou.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=fa4f22ecae17f510e2e970e905418c55383e3b15ef403cb2316889f1a7b1cece&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東幕下十一枚目",
       "division": "Makushita",
       "bio_short": "左四つ・下手投げ",
@@ -367,10 +367,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "栃丸",
-        "kimarite": "渡し込み",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -378,12 +378,12 @@
     {
       "id": "2ebb14e3-2111-8026-91db-e7e609be757e",
       "shikona": "聖富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/1fe44da0-d75a-48d9-ba14-1b6d418403fb/Satorufuji.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=a64880542cdc7cc3c38c35f63ad10e36fb3d4fdd26d55b39368dade9aa3a8b34&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/1fe44da0-d75a-48d9-ba14-1b6d418403fb/Satorufuji.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=0099c423233837885342e920ec6b820a178583999f93f6a5801cb1ef94aa61c5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西幕下十八枚目",
       "division": "Makushita",
       "bio_short": "",
       "sort_order": 5000,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
@@ -398,16 +398,16 @@
         "ABSENT",
         "W",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "城間",
+        "kimarite": "突き落とし",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -415,7 +415,7 @@
     {
       "id": "2ebb14e3-2111-8095-8f55-e5f2d5623545",
       "shikona": "夢之富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/5a3a6cd7-635e-4cc8-a719-0faf7f285e2f/Yumenofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=72a50cde0e80c88ff01e014d815e7dfbad8604b6ecc35cb38ebfac5fad58a57f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/5a3a6cd7-635e-4cc8-a719-0faf7f285e2f/Yumenofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=ef8f640b3edfc9e6aeb2a219061fe0281279bb38d025a3f6177a9909c21e8537&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西幕下五十六枚目",
       "division": "Makushita",
       "bio_short": "",
@@ -441,10 +441,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "隠岐の浜",
-        "kimarite": "寄り切り",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -452,7 +452,7 @@
     {
       "id": "2ebb14e3-2111-8051-b23d-c5d9f88344c5",
       "shikona": "泉富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/75addd6a-66b6-420c-a366-18f0952a41f4/Izumifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=b67170c5f64fd9387d921af652c8b6f8c416064faed176bcaeeec67fff789e1a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/75addd6a-66b6-420c-a366-18f0952a41f4/Izumifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=78f377a48d8cc609750319edfd5a333d3342d2a3525a9328c9dceeb9bed4cde1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東三段目二十枚目",
       "division": "Sandanme",
       "bio_short": "",
@@ -478,10 +478,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
-        "opponent": "朝興貴",
-        "kimarite": "突き落とし",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -489,7 +489,7 @@
     {
       "id": "2ebb14e3-2111-80ce-b7b3-f02582d23177",
       "shikona": "花の富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a75b674a-f9b3-491a-885a-ed41085fb4fe/Hananofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=ec9c356abf4dc3a6c7d4b48bbc216568699002fdfe286912ab201bcef790b665&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a75b674a-f9b3-491a-885a-ed41085fb4fe/Hananofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=ba75a3662ee297925ff39aeaa03b8c3660d08db4cf25979dba71d2ec2062c432&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東三段目二十三枚目",
       "division": "Sandanme",
       "bio_short": "押し・モロ差し・寄り",
@@ -515,10 +515,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "生田目",
-        "kimarite": "寄り切り",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -526,13 +526,13 @@
     {
       "id": "2ebb14e3-2111-8072-b11f-e8416e8d378d",
       "shikona": "美富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/f84aa29e-92de-47b0-8fae-9a937bfd3d00/Churafuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=6ac12dc722870eb2a83572512d85464a7d3b3c0f7b4d49bad46d79e1cd384402&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/f84aa29e-92de-47b0-8fae-9a937bfd3d00/Churafuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=cc5e0e775e2bebfd87d58abfafd5a6ba851b207b0b7dc1437ed2082f62fefca7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西三段目二十六枚目",
       "division": "Sandanme",
       "bio_short": "押し",
       "sort_order": 30000,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
         "ABSENT",
@@ -546,16 +546,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "春雷",
+        "kimarite": "突き落とし",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -563,13 +563,13 @@
     {
       "id": "2ebb14e3-2111-8092-9719-c7dc1ba07683",
       "shikona": "実富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/7f8a9ce9-b290-4efe-8085-b40b72cf7c14/Minorufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=ea8bd21da9ec2e52b3ebff39828283f4a143de64b8c0bf31adcb6eaa0b0fa63e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/7f8a9ce9-b290-4efe-8085-b40b72cf7c14/Minorufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=e386e251238c980243c9fee3a2ff7f12a1279b8afc11d01a2f5d20d50c9e270c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西三段目四十枚目",
       "division": "Sandanme",
       "bio_short": "",
       "sort_order": 40000,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "kinboshi_count": 0,
       "results_15": [
         "W",
@@ -583,16 +583,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "道轟",
+        "kimarite": "寄り切り",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -600,12 +600,12 @@
     {
       "id": "2ebb14e3-2111-80f4-868d-fee57f13adf1",
       "shikona": "鈴ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a47fbe5c-82be-48e9-90f0-d0d270257781/Suzunofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=efe29ae01081f66ba7756f24ec6dc9493defc683c32a32736c7b81955bbe1636&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a47fbe5c-82be-48e9-90f0-d0d270257781/Suzunofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=d18bcb02f6db75c85bee0ad6e712beefe162276e722378c0cc894b24412cb4bf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西三段目四十三枚目",
       "division": "Sandanme",
       "bio_short": "",
       "sort_order": 50000,
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "kinboshi_count": 0,
       "results_15": [
@@ -620,16 +620,16 @@
         "L",
         "ABSENT",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "大志松",
+        "kimarite": "寄り切り",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -637,7 +637,7 @@
     {
       "id": "2ebb14e3-2111-8001-bd06-e86c32690c97",
       "shikona": "絢ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/81a33db9-5698-4b13-9900-142c14ee362a/Ayanofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=0260f0b59a2258472d9a805a24492185392c8012f0c1e44ed5b45891990b3993&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/81a33db9-5698-4b13-9900-142c14ee362a/Ayanofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=3c1a3cf553d733158958a6626607f4b82ad6585dbc9c732a95560290db094e0a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東三段目四十六枚目",
       "division": "Sandanme",
       "bio_short": "",
@@ -663,10 +663,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
-        "opponent": "朝心誠",
-        "kimarite": "引き落とし",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -674,12 +674,12 @@
     {
       "id": "2ebb14e3-2111-80a2-9c8a-d1f5ab954acc",
       "shikona": "柾富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/cc759c64-3e61-4e7e-b78f-26dd55f7483b/Masakifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=850e4a275711fbd61a1fabd1941df00a833332aa8f581c4ad553e5f38369df56&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/cc759c64-3e61-4e7e-b78f-26dd55f7483b/Masakifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=8c0aa10d9ea24f82f4300bb509f5a16aee0ac0e9b98201c6abe648f97f28fb8f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東三段目四十九枚目",
       "division": "Sandanme",
       "bio_short": "",
       "sort_order": 70000,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
@@ -694,16 +694,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "松蘭",
+        "kimarite": "切り返し",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -711,7 +711,7 @@
     {
       "id": "2ebb14e3-2111-802f-aadd-df98ed3ee3aa",
       "shikona": "蔵ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/8ab1631f-d33a-4c9a-8827-2f1e315ffee5/Kuranofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=3fe61a1a976ac9b7cecae7cef9fcaa09165f3c86b78ec8955c612c4b2e5ff07f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/8ab1631f-d33a-4c9a-8827-2f1e315ffee5/Kuranofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=4dda65445774948429e047df5a90ccabccc43c1debba8a1bdebf33f4950b6e85&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東三段目六十二枚目",
       "division": "Sandanme",
       "bio_short": "",
@@ -737,10 +737,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
-        "opponent": "虎徹",
-        "kimarite": "押し出し",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -748,12 +748,12 @@
     {
       "id": "2ebb14e3-2111-8012-8c34-db7913e981a6",
       "shikona": "幸乃富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/5dfaf47d-4468-4be9-8b9e-0801d7b6db1a/Sachinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=8481d34050e0a9141adb733d3e145d76cce33e1133e40594e5b8975e4d16b879&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/5dfaf47d-4468-4be9-8b9e-0801d7b6db1a/Sachinofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=b9832ed2c0f07a35fb3b245ffaa0db39d49085ed9e104eb9ff76d3be40d392d2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序二段六枚目",
       "division": "Jonidan",
       "bio_short": "",
       "sort_order": 100000,
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "kinboshi_count": 0,
       "results_15": [
@@ -768,16 +768,16 @@
         "W",
         "ABSENT",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "禎ノ花",
+        "kimarite": "寄り切り",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -785,12 +785,12 @@
     {
       "id": "2ebb14e3-2111-80f8-be4e-e0e28c036c7c",
       "shikona": "翠河富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/d53ccc7e-18a5-4c40-8b82-7484eec6c177/Suigafuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=08cfcf27a2ecd1bd40b35a3fb10b5b6baa4c6f316b897a3f4ce2e14076fa6668&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/d53ccc7e-18a5-4c40-8b82-7484eec6c177/Suigafuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=b8e14c558debe3c2cb54ed3a4a4d0a2d23ccb5a3851031215f5d11bd38855434&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序二段三十七枚目",
       "division": "Jonidan",
       "bio_short": "",
       "sort_order": 200000,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
@@ -805,16 +805,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "備巌山",
+        "kimarite": "肩透かし",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -822,7 +822,7 @@
     {
       "id": "2ebb14e3-2111-804d-9702-f981f57c654f",
       "shikona": "御室岳",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/c01861be-5fc2-4726-b127-198ca3901f42/Mimurodake.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=1c08960b06811977bbc6cfd4dab738e01843f16d0b1aa2a933b9c1799b024c7c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/c01861be-5fc2-4726-b127-198ca3901f42/Mimurodake.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=a9acbd1d15cfa229840cdb5e69afeaf35c29054c173bb08d31b2bcc0c8d986ca&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西序二段四十六枚目",
       "division": "Jonidan",
       "bio_short": "",
@@ -848,10 +848,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
-        "opponent": "朝翔",
-        "kimarite": "押し出し",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -859,13 +859,13 @@
     {
       "id": "2ebb14e3-2111-8082-a800-c55a8c0ebed2",
       "shikona": "優富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/7ba79f97-f8c4-4cb5-bad0-f82d4cca93f1/Masarufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=bc6f686fa62d4914ed34def26c36fccc8aa9278bfe0677020493c57badb63ac9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/7ba79f97-f8c4-4cb5-bad0-f82d4cca93f1/Masarufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=e9c2412a06c08f530980f1a7e8aee6d2c6ecc1347b89091eca349780e4f5a465&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序二段五十七枚目",
       "division": "Jonidan",
       "bio_short": "",
       "sort_order": 400000,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
         "ABSENT",
@@ -879,16 +879,16 @@
         "ABSENT",
         "L",
         "ABSENT",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "栃颯",
+        "kimarite": "突き落とし",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -896,7 +896,7 @@
     {
       "id": "2ebb14e3-2111-80c8-852b-cd3616955c5b",
       "shikona": "宮富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/b90abd8a-cd53-4dc4-a48f-7a6706e516a2/Miyafuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=c51aa7bb51093c826b9dfa38840f5c83407f0e6d1b8e167bd7bd2cf0bd1c3dfd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/b90abd8a-cd53-4dc4-a48f-7a6706e516a2/Miyafuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=4e4aef8b273647e2da676a37765e61011de0b2ebf8c9a10526dd994e2ed10738&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西序二段七十一枚目",
       "division": "Jonidan",
       "bio_short": "",
@@ -922,8 +922,8 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
+        "date": "2026-01-22",
+        "result": "FUSEN_L",
         "opponent": "",
         "kimarite": "",
         "is_kinboshi": false,
@@ -933,7 +933,7 @@
     {
       "id": "2ebb14e3-2111-8087-9014-da4d1e0a31e1",
       "shikona": "鶴ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/7edbd12d-9540-46d1-a69a-bb28eea11b4a/Tsurunofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=b2e372f5d05994e712f0bc45bd1408e70af7f2ff5822ca330f25021620bdf6ce&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/7edbd12d-9540-46d1-a69a-bb28eea11b4a/Tsurunofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=6f066756b04c803656ab6a48ad062d94d0df562e64458e8d956f79f27a6a613b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序二段七十五枚目",
       "division": "Jonidan",
       "bio_short": "",
@@ -959,10 +959,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "L",
-        "opponent": "総勢山",
-        "kimarite": "押し倒し",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -970,12 +970,12 @@
     {
       "id": "2ebb14e3-2111-80cb-84dc-fddf182fe792",
       "shikona": "満富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/acca9a6d-2057-4db7-b862-05ac0c0cdb98/Mitsurufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=bcc588f80a9feb2b1ab98fc33660f38854f696caba0197b851220bd513d64958&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/acca9a6d-2057-4db7-b862-05ac0c0cdb98/Mitsurufuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=e6a841d9b4136b89efd09d34b1b235d7d8f5f9031888de74299f2a0e41a02721&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序ノ口﻿三枚目",
       "division": "Jonokuchi",
       "bio_short": "",
       "sort_order": 1000000,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
       "kinboshi_count": 0,
       "results_15": [
@@ -990,16 +990,16 @@
         "ABSENT",
         "W",
         "ABSENT",
-        null,
+        "W",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "W",
+        "opponent": "瀬戸豊",
+        "kimarite": "寄り切り",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -1007,13 +1007,13 @@
     {
       "id": "2ebb14e3-2111-802e-b697-e585795fac24",
       "shikona": "駒ノ富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/97606db5-c03f-4538-b640-091b606bd585/Komanofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=88fe05c0d383c00ad45dbe39f800ec0d07c9b8303bd29b1dd619e92e5ac05b42&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/97606db5-c03f-4538-b640-091b606bd585/Komanofuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=4df406c8b2df704dde5233c753238858e8bc31da8a616240ce67c4fb094adbca&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "西序ノ口﻿三枚目",
       "division": "Jonokuchi",
       "bio_short": "",
       "sort_order": 2000000,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "kinboshi_count": 0,
       "results_15": [
         "W",
@@ -1027,16 +1027,16 @@
         "ABSENT",
         "W",
         "ABSENT",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "若大根原",
+        "kimarite": "寄り倒し",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -1044,13 +1044,13 @@
     {
       "id": "2ebb14e3-2111-8092-ad01-d0767bed82bb",
       "shikona": "兎富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a94a0f95-d906-458d-a482-f32e382426cb/Usagifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=848f6073f1b00e44d5484ca0c47622f419e1fff9907e79af30f8e49a246e678a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/a94a0f95-d906-458d-a482-f32e382426cb/Usagifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=2f307f0c83e9351c06ad3cf26b21301cba8eb4e863682c08414b373f3663e506&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序ノ口﻿十一枚目",
       "division": "Jonokuchi",
       "bio_short": "",
       "sort_order": 3000000,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "kinboshi_count": 0,
       "results_15": [
         "ABSENT",
@@ -1064,16 +1064,16 @@
         null,
         "W",
         "ABSENT",
-        null,
+        "L",
         null,
         null,
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "ABSENT",
-        "opponent": "",
-        "kimarite": "",
+        "date": "2026-01-22",
+        "result": "L",
+        "opponent": "東山",
+        "kimarite": "寄り倒し",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -1081,7 +1081,7 @@
     {
       "id": "2ebb14e3-2111-8075-843b-e0a05e470515",
       "shikona": "蒼富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/ee9204fe-55a3-4600-abe1-25abfd30c626/Aoifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=abf74970c3f8cbdd4a24e375c9c663da1bfa53a7d28271b1e486b96fc29f68f7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/ee9204fe-55a3-4600-abe1-25abfd30c626/Aoifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=233b96543d7781906577d03c418f0c578c29b7eff271bd1780b662a43fdab42f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序ノ口﻿十七枚目",
       "division": "Jonokuchi",
       "bio_short": "",
@@ -1107,10 +1107,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "東浪",
-        "kimarite": "押し出し",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -1118,7 +1118,7 @@
     {
       "id": "2ebb14e3-2111-80be-9693-c163fe51fabc",
       "shikona": "旭富士",
-      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/f809ca99-a6fa-4a50-a61e-327a0700450b/Asahifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SQZQOTV3%2F20260121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260121T124447Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIQD17Ek3UeCIfX9mSYJFJPZDbfikjldKCafSQrn7Dp7ljgIgSRonmCq%2BDyF400%2B27uYxJmBNczoaMxv9pR57OzhaJkIqiAQIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDP4jIAhzNbz2MIZeXyrcA8XYL1GjYv7YVDwSAfQPJV%2FYARVF82Bmab%2Fmv2yxF5XTmAKKZfuII%2B02XULB98SZ%2BuC%2BT0TfJfQGsq4MfhMATBP%2FxZ3eqwClnOuMF7iB2cGCir5HrnfKT57Paoy84w5%2B3lSopJ637EBSsUTxLWArkbg4koeJ78v15Ov4Gp57CxdnYQzhUqep1C0RyfUHcafypUudDjOMeQfXDn9%2FAj%2FAJuNBaLagV6tKvPt%2B2jlOXAq3%2BLp%2FlLvDRJ1BxJs9VCtuWISwwztGSZm2uQHGbgmwas2zeu9UihdbrxaHrNFNAJ2YBdBh%2BVAqWzKttkQn841eRdEVhIOv0hT%2BBYiMlq7qylUGGsQm2N8VCu2dqe8wBuJGYIQ07caSGAfCfxX0A8jr5frDqBK7TURdDsKhJLyksa5Yxyyc18f5GB38LoQS1m7nPxCpU%2B1iXkLCamF6%2BBn9Ku3%2BWoy0RMZPt%2BKqsyof0ZzVK7d6Vr5F%2F74H8AvJaTAdGh9y9DgA37GHU%2BqfgdTFDPY0tPp%2FGupHDm3bbTmnTeMANgg1EONuWarQP2q1%2BfbukKoe3FQl%2FPIVi%2F%2FKwCit2BrVwtbNqN56VUPqT9dfP3MYQLho9GOJmHKzhUgiXjsJzLjNwd38JZ%2FLzgJtMLDzwssGOqUB3a83aEjP3pzXtKaFZ%2By5%2FYyUGaRFqcl8f3sH7fsU1DLBXRutHJtqmPhKxUVlLeKsSd%2FVHHHdHdwF7UqIr1dg600f3Op43L04Qn5yg2XBNC4Wb8LIu%2BytOMAjNbNODMODmDgcK%2Fe0GQCFHgrgRfGBOIEL5k36U1289GkeYwHH2ybw7GCoi1gx28E7EN%2FkirDPXuXjZxX96z4v4TwWAIf5dIvCOFJN&X-Amz-Signature=c756c8ac723cb4d242df2e181abec9b61e3d30fc68ada24731903cbe6d0723c7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "photo_url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/efff81a7-602b-46b9-aae8-d980a9e2fba7/f809ca99-a6fa-4a50-a61e-327a0700450b/Asahifuji.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466SDSJ3RDO%2F20260122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260122T122939Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLXdlc3QtMiJIMEYCIQDaQw%2FIHFNRMg%2FBo6lsSyVcKfxg7hE%2BrkmjseOhSV%2BTMQIhALche25sr2laPpf%2F9M2HPx7EpK1V3M6XehNyJYn%2FhZivKogECN7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwbMWgFa60hehLZeqoq3AN7lHLW%2FASm5gkkORHwX5bgih2J1Y9ofELqzZPJM4FxCJld2mrTYTobFF6TdZz6qc0XnV0QLykIIA18szqp%2FbGXYmUCtkoNFG3kpy4MkyadHIDwW3i7nkU2Xi%2B8aXDj27%2FlzI171wCOHt8LdV5KPn%2F%2FnmYCsUOnLGJNFURtbJiooQ1Hgp3oSpC47gT55Rj9y6GQMldoZIvVpDAQ%2FQCnSwNE3gsc62yfNi30hWkEOnrvd5c%2BTd3jWJSkgIzGic%2FoHuIIMt6WgFUh8228ofeOtT7nMhAv0ag4Ab0AxWtqTmQ36NrTdIdipHqVby7P4E8C4y7RvGJE4x1TXjonVsxJj0cOERUncEQ8PsP4leDI9hnb8mkGprGa9VCmL%2F%2FxfrO4F9xeEVXAfaT23WckCBZ5RBtPrVwWpbJFthHJ%2BnEDVjtRUe6qn6tCTtNYXwNKF2n53ims31osYCBYjqrfqupmX4Gac5ujVtwX%2Fv8Ln2%2FMT0cWi020Q4w%2BdN9mPATijZsxUYcFlRsfQ42of96aP3ZtZLhw5uUkLpuXsrvsUZM2Lmp1XQ9LGuHO2LiILXKPdpVuQ9ntV3MEnhzFm6NEyi%2BHT%2BqGuGarKxsW%2F9Mkx9ACyne4ogaJkuCgFOhZckkzKjD7rcjLBjqkAZlimLfsbRXOnrKZzHyMa6fdpZ78tenu3Y6GxcuiZTBr0e3HeiFeK6MNGCJWRg56J3y5KKPCLND%2BXyWPwPWS0yHZ35n8%2FR%2FSTgqIC93xJLzf4BUF0wL4a4RgJxCxX76IIYoFzzT4uCiM8VuA9H6l%2BQrDGyK%2FPzHeN%2Bco%2FpKznI3Z%2BeOEBK4WAK7rVbuWupzUYxq1gGpwGEWiRg2%2BOx64K4DkLhDT&X-Amz-Signature=f473053c9094b2fda15f399802b3c5793b8fbbbc9032490b6dbc8bde18621572&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "rank": "東序ノ口﻿十九枚目",
       "division": "Jonokuchi",
       "bio_short": "",
@@ -1144,10 +1144,10 @@
         null
       ],
       "today": {
-        "date": "2026-01-21",
-        "result": "W",
-        "opponent": "謙豊",
-        "kimarite": "寄り切り",
+        "date": "2026-01-22",
+        "result": "ABSENT",
+        "opponent": "",
+        "kimarite": "",
         "is_kinboshi": false,
         "video_url": ""
       }
@@ -4723,8 +4723,8 @@
       "rikishi_id": "2ebb14e3-2111-8072-b11f-e8416e8d378d",
       "rikishi": "",
       "opponent": "春雷",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "突き落とし",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -4749,8 +4749,8 @@
       "rikishi_id": "2ebb14e3-2111-80a2-9c8a-d1f5ab954acc",
       "rikishi": "",
       "opponent": "松蘭",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "切り返し",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -4788,8 +4788,8 @@
       "rikishi_id": "2ebb14e3-2111-80f8-be4e-e0e28c036c7c",
       "rikishi": "",
       "opponent": "備巌山",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "肩透かし",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -4814,8 +4814,8 @@
       "rikishi_id": "2ebb14e3-2111-8092-9719-c7dc1ba07683",
       "rikishi": "",
       "opponent": "道轟",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "寄り切り",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -4931,8 +4931,8 @@
       "rikishi_id": "2ebb14e3-2111-8004-9bc2-dd9d903af5e9",
       "rikishi": "",
       "opponent": "黒姫山",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "押し出し",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -5217,8 +5217,8 @@
       "rikishi_id": "2ebb14e3-2111-8082-a800-c55a8c0ebed2",
       "rikishi": "",
       "opponent": "栃颯",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "突き落とし",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -5334,8 +5334,8 @@
       "rikishi_id": "2ebb14e3-2111-8092-ad01-d0767bed82bb",
       "rikishi": "",
       "opponent": "東山",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "寄り倒し",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -5555,8 +5555,8 @@
       "rikishi_id": "2ebb14e3-2111-80df-bc6d-e99b04350054",
       "rikishi": "",
       "opponent": "正代",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "小手投げ",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -5672,8 +5672,8 @@
       "rikishi_id": "2ebb14e3-2111-806b-b206-e618c09a9cbe",
       "rikishi": "",
       "opponent": "花岡",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "小手投げ",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -5750,8 +5750,8 @@
       "rikishi_id": "2ebb14e3-2111-8026-91db-e7e609be757e",
       "rikishi": "",
       "opponent": "城間",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "突き落とし",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -6257,8 +6257,8 @@
       "rikishi_id": "2ebb14e3-2111-802e-b697-e585795fac24",
       "rikishi": "",
       "opponent": "若大根原",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "寄り倒し",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -6491,8 +6491,8 @@
       "rikishi_id": "2ebb14e3-2111-8052-92ff-fc83e16e2a8d",
       "rikishi": "",
       "opponent": "白熊",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "押し倒し",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -6517,7 +6517,7 @@
       "rikishi_id": "2ebb14e3-2111-8091-ab23-c6a8af95ca64",
       "rikishi": "",
       "opponent": "阿武剋",
-      "result": "",
+      "result": "FUSEN_L",
       "kimarite": "",
       "is_kinboshi": false,
       "video_url": "",
@@ -6530,8 +6530,8 @@
       "rikishi_id": "2ebb14e3-2111-80f4-868d-fee57f13adf1",
       "rikishi": "",
       "opponent": "大志松",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "寄り切り",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -6595,8 +6595,8 @@
       "rikishi_id": "2ebb14e3-2111-80cb-84dc-fddf182fe792",
       "rikishi": "",
       "opponent": "瀬戸豊",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "寄り切り",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -6634,10 +6634,10 @@
       "rikishi_id": "2ebb14e3-2111-805b-83b0-d8e3c6ffc76a",
       "rikishi": "",
       "opponent": "安青錦",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "寄り切り",
       "is_kinboshi": false,
-      "video_url": "",
+      "video_url": "https://youtu.be/Nc7gdRDsLx0?si=4kcLtyWIpLlf48Ix",
       "note": ""
     },
     {
@@ -6725,10 +6725,10 @@
       "rikishi_id": "2e8b14e3-2111-8081-a838-c62fd1780d9b",
       "rikishi": "",
       "opponent": "若隆景",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "寄り切り",
       "is_kinboshi": false,
-      "video_url": "",
+      "video_url": "https://youtu.be/78BxhtyFQSs?si=Z79cshGgzPzzF_fo",
       "note": ""
     },
     {
@@ -6868,8 +6868,8 @@
       "rikishi_id": "2ebb14e3-2111-8012-8c34-db7913e981a6",
       "rikishi": "",
       "opponent": "禎ノ花",
-      "result": "",
-      "kimarite": "",
+      "result": "W",
+      "kimarite": "寄り切り",
       "is_kinboshi": false,
       "video_url": "",
       "note": ""
@@ -7037,10 +7037,10 @@
       "rikishi_id": "2ebb14e3-2111-8011-b9e2-f28e8fbce111",
       "rikishi": "",
       "opponent": "宇良",
-      "result": "",
-      "kimarite": "",
+      "result": "L",
+      "kimarite": "肩透かし",
       "is_kinboshi": false,
-      "video_url": "",
+      "video_url": "https://youtu.be/K37nL036FFg?si=yvtMGQv-0qi9NOCK",
       "note": ""
     },
     {
