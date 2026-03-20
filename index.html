@@ -172,10 +172,38 @@
       gap: 16px;
     }
 
+    .tabs{
+      display:flex;
+      gap:10px;
+      margin: 0 0 18px;
+      flex-wrap: wrap;
+    }
+    .tab-btn{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding: 10px 16px;
+      border:1px solid #ddd;
+      border-radius: 999px;
+      background: rgba(255,255,255,.85);
+      color:#111;
+      text-decoration:none;
+      font-weight:800;
+    }
+    .tab-btn:hover{
+      background:#f6f6f6;
+    }
+    .tab-btn.active{
+      border-color:#111;
+      background:#111;
+      color:#fff;
+    }
+
   </style>
 </head>
 <body>
   <h1 style="margin:0 0 12px;">伊勢ヶ濱部屋 星取表</h1>
+  <div id="tournament-tabs" class="tabs"></div>
   <div id="grid" class="grid"></div>
 
 <script>
@@ -187,6 +215,34 @@
     Jonidan: "序二段",
     Jonokuchi: "序ノ口"
   };
+  const TOURNAMENTS = {
+    hatsu: {
+      label: "初場所",
+      file: "data-hatsu.json"
+    },
+    haru: {
+      label: "三月場所",
+      file: "data-haru.json"
+    }
+  };
+
+  function getTournamentId() {
+    const params = new URLSearchParams(window.location.search);
+    const t = params.get("t");
+    if (t && TOURNAMENTS[t]) return t;
+    return "hatsu";
+  }
+
+  function renderTournamentTabs() {
+    const current = getTournamentId();
+    const root = document.getElementById("tournament-tabs");
+    if (!root) return;
+
+    root.innerHTML = Object.entries(TOURNAMENTS).map(([id, info]) => {
+      const active = id === current ? "active" : "";
+      return `<a class="tab-btn ${active}" href="index.html?t=${id}">${info.label}</a>`;
+    }).join("");
+  }
 
   function statusText(w, l) {
     if (w > l) return "好調";
@@ -246,7 +302,7 @@
           <div class="links">
             ${r.today?.video_url ? `<a class="btn" href="${r.today.video_url}" target="_blank" rel="noreferrer">▶ 今日の取組を見る</a>` : ``}
 
-            <a class="btn" href="rikishi.html?id=${encodeURIComponent(r.id)}">▶ 詳細</a>
+            <a class="btn" href="rikishi.html?t=${encodeURIComponent(getTournamentId())}&id=${encodeURIComponent(r.id)}">▶ 詳細</a>
 
             <button class="oshi-btn oshi-icon" type="button" data-oshi-id="${r.id}" aria-label="推し">
               <span class="icon">♡</span>
@@ -287,7 +343,12 @@
 
 
   async function main() {
-    const res = await fetch("./data.json");
+    renderTournamentTabs();
+
+    const tournamentId = getTournamentId();
+    const dataFile = TOURNAMENTS[tournamentId].file;
+
+    const res = await fetch(`./${dataFile}`);
     const data = await res.json();
     const grid = document.getElementById("grid");
 

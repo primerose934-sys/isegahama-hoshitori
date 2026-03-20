@@ -149,16 +149,44 @@
     100% { opacity:0; transform: translate(-50%,-120%) scale(1.4); }
     }
 
+    .tabs{
+      display:flex;
+      gap:10px;
+      margin: 12px 0 18px;
+      flex-wrap: wrap;
+    }
+    .tab-btn{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding: 10px 16px;
+      border:1px solid #ddd;
+      border-radius: 999px;
+      background: rgba(255,255,255,.85);
+      color:#111;
+      text-decoration:none;
+      font-weight:800;
+    }
+    .tab-btn:hover{
+      background:#f6f6f6;
+    }
+    .tab-btn.active{
+      border-color:#111;
+      background:#111;
+      color:#fff;
+    }
+
   </style>
 </head>
 <body>
-<div class="wrap">
-  <div class="top">
-    <h1 style="margin:0;">力士詳細</h1>
-    <a class="back" href="./index.html">← 一覧へ</a>
-  </div>
+<div class="top">
+  <h1 style="margin:0;">力士詳細</h1>
+  <a id="back-link" class="back" href="./index.html">← 一覧へ</a>
+</div>
 
-  <div id="profile" class="card"></div>
+<div id="tournament-tabs" class="tabs"></div>
+
+<div id="profile" class="card"></div>
 
   <h2 style="margin:16px 0 6px;">取組一覧</h2>
   <div class="muted" id="meta"></div>
@@ -185,6 +213,45 @@
     Jonidan: "序二段",
     Jonokuchi: "序ノ口"
   };
+
+  const TOURNAMENTS = {
+    hatsu: {
+      label: "初場所",
+      file: "data-hatsu.json"
+    },
+    haru: {
+      label: "三月場所",
+      file: "data-haru.json"
+    }
+  };
+
+  function getTournamentId() {
+    const params = new URLSearchParams(window.location.search);
+    const t = params.get("t");
+    if (t && TOURNAMENTS[t]) return t;
+    return "hatsu";
+  }
+
+  function renderTournamentTabs() {
+    const current = getTournamentId();
+    const rikishiId = getId();
+    const root = document.getElementById("tournament-tabs");
+    if (!root) return;
+
+    root.innerHTML = Object.entries(TOURNAMENTS).map(([id, info]) => {
+      const active = id === current ? "active" : "";
+      const href = `rikishi.html?t=${id}&id=${encodeURIComponent(rikishiId)}`;
+      return `<a class="tab-btn ${active}" href="${href}">${info.label}</a>`;
+    }).join("");
+  }
+
+  function updateBackLink() {
+    const current = getTournamentId();
+    const back = document.getElementById("back-link");
+    if (back) {
+      back.href = `./index.html?t=${current}`;
+    }
+  }
 
   function getId() {
     const u = new URL(location.href);
@@ -224,8 +291,14 @@
 
 
   async function main() {
+    renderTournamentTabs();
+    updateBackLink();
+
     const id = getId();
-    const res = await fetch("./data.json");
+    const tournamentId = getTournamentId();
+    const dataFile = TOURNAMENTS[tournamentId].file;
+
+    const res = await fetch(`./${dataFile}`);
     const data = await res.json();
 
     const r = data.rikishi.find(x => x.id === id);
