@@ -176,6 +176,28 @@
       color:#fff;
     }
 
+    .pill.fusen-w,
+    .pill.fusen-l {
+      font-weight: 900;
+    }
+
+    .pill.absent,
+    .pill.no-bout {
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .dot.fusen-w,
+    .dot.fusen-l {
+      font-weight: 900;
+    }
+
+    .dot.absent,
+    .dot.no-bout {
+      font-size: 11px;
+      font-weight: 900;
+    }
+
   </style>
 </head>
 <body>
@@ -215,13 +237,13 @@
   };
 
   const TOURNAMENTS = {
-    hatsu: {
-      label: "初場所",
-      file: "data-hatsu.json"
+    "2026_hatsu": {
+      label: "2026年初場所",
+      file: "data-2026-hatsu.json",
     },
-    haru: {
-      label: "三月場所",
-      file: "data-haru.json"
+    "2026_3gatsu": {
+      label: "2026年三月場所",
+      file: "data-2026-3gatsu.json"
     }
   };
 
@@ -261,9 +283,10 @@
   function pill(result) {
     if (result === "W") return `<span class="pill w">○</span>`;
     if (result === "L") return `<span class="pill l">●</span>`;
-    if (result === "ABSENT") return `<span class="pill">休</span>`;
-    if (result === "FUSEN_W") return `<span class="pill">不戦勝</span>`;
-    if (result === "FUSEN_L") return `<span class="pill">不戦敗</span>`;
+    if (result === "FUSEN_W") return `<span class="pill fusen-w">□</span>`;
+    if (result === "FUSEN_L") return `<span class="pill fusen-l">■</span>`;
+    if (result === "ABSENT") return `<span class="pill absent">休</span>`;
+    if (result === "NO_BOUT") return `<span class="pill no-bout">－</span>`;
     return `<span class="pill">?</span>`;
   }
 
@@ -315,10 +338,14 @@
     const results = Array.isArray(r.results_15) ? r.results_15 : Array(15).fill(null);
 
     function dotFor(r) {
-        if (r === "W") return { cls: "dot w", text: "○" };
-        if (r === "L") return { cls: "dot l", text: "●" };
-        if (r === null) return { cls: "dot empty", text: "・" };
-        return { cls: "dot", text: "?" };
+      if (r === "W") return { cls: "dot w", text: "○" };
+      if (r === "L") return { cls: "dot l", text: "●" };
+      if (r === "FUSEN_W") return { cls: "dot fusen-w", text: "□" };
+      if (r === "FUSEN_L") return { cls: "dot fusen-l", text: "■" };
+      if (r === "ABSENT") return { cls: "dot absent", text: "休" };
+      if (r === "NO_BOUT") return { cls: "dot no-bout", text: "－" };
+      if (r === null) return { cls: "dot empty", text: "・" };
+      return { cls: "dot", text: "?" };
     }
 
     profile.innerHTML = `
