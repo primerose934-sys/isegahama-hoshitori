@@ -21,11 +21,14 @@
     .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px; }
     .card { border: 2px solid #ddd; border-radius: 16px; padding: 12px; background: #fff; }
     .card.kinboshi { border-color: #c9a227; } /* gold */
-    .badge { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; font-size: 12px; padding: 6px 10px; border-radius: 999px; background: #fff7d6; border: 1px solid #c9a227; }
+    .badge { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; font-size: 12px; padding: 6px 10px; border-radius: 999px; background: #fff7d6; border: 1px solid #c9a227; white-space: nowrap; }
+    /* 優勝バッジ：金星（淡い金の枠線）と区別するため紫の塗りつぶし */
+    .badge.champion { background: #5b4b8a; border-color: #4a3c73; color: #fff; font-size: 11px; padding: 5px 8px; }
+    .badges { display: flex; flex-wrap: wrap; gap: 5px; justify-content: flex-end; }
     .toprow { display:flex; justify-content: space-between; align-items:center; margin-bottom: 10px; }
     .header { display:flex; gap: 12px; align-items: center; }
     .photo { width: 56px; height: 56px; border-radius: 12px; object-fit: cover; background:#f2f2f2; }
-    .name { font-size: 18px; font-weight: 800; line-height: 1.1; }
+    .name { font-size: 18px; font-weight: 800; line-height: 1.1; white-space: nowrap; }
     .rank { font-size: 12px; opacity: .75; margin-top: 2px; }
     .record { font-size: 28px; font-weight: 900; margin-top: 6px; }
     .status { font-size: 12px; opacity: .8; }
@@ -238,6 +241,10 @@
     "2026_7gatsu": {
       label: "2026年七月場所",
       file: "data-2026-7gatsu.json"
+    },
+    "2026_9gatsu": {
+      label: "2026年九月場所",
+      file: "data-2026-9gatsu.json"
     }
   };
 
@@ -245,7 +252,7 @@
     const params = new URLSearchParams(window.location.search);
     const t = params.get("t");
     if (t && TOURNAMENTS[t]) return t;
-    return "hatsu";
+    return Object.keys(TOURNAMENTS)[0];
   }
 
   function renderTournamentTabs() {
@@ -280,8 +287,31 @@
     return JP_DIVISION[div] || (div ?? "その他");
   }
 
+  /* 改名した力士は当時の四股名フォルダに画像が無いことがあるので現四股名も試す */
+  function fallbackPhotoSrc(r){
+    const current = r.current_shikona || "";
+    if (!current || current === r.shikona) return "";
+    return `./images/${current}/image.jpg`;
+  }
+
+  function onPhotoError(img){
+    const fallback = img.dataset.fallbackSrc;
+    if (fallback) {
+      img.dataset.fallbackSrc = "";
+      img.src = fallback;
+      return;
+    }
+    img.style.display = "none";
+  }
+
+  function championLabel(div){
+    const name = JP_DIVISION[div];
+    return name ? `${name}優勝` : "優勝";
+  }
+
   function renderCard(r){
     const kin = (r.kinboshi_count || 0) > 0 || (r.today?.is_kinboshi);
+    const champion = !!r.is_champion;
     const divJP = divLabel(r.division);
     const todayMark =
       r.today?.result === "W" ? "○" :
@@ -299,7 +329,7 @@
     card.innerHTML = `
       <div class="card-main">
         <div class="photo-wrap">
-          <img class="photo" src="./images/${r.shikona || ''}/image.jpg" alt="${r.shikona}" onerror="this.style.display='none'">
+          <img class="photo" src="./images/${r.shikona || ''}/image.jpg" alt="${r.shikona}" data-fallback-src="${fallbackPhotoSrc(r)}" onerror="onPhotoError(this)">
         </div>
 
         <div class="info">
@@ -308,7 +338,10 @@
               <div class="name">${r.shikona}</div>
               <div class="rank">${r.rank} / ${divJP}</div>
             </div>
-            ${kin ? `<div class="badge">金星★</div>` : ``}
+            <div class="badges">
+              ${champion ? `<div class="badge champion">${championLabel(r.division)}</div>` : ``}
+              ${kin ? `<div class="badge">金星★</div>` : ``}
+            </div>
           </div>
 
           <div class="record">${r.wins}–${r.losses}</div>

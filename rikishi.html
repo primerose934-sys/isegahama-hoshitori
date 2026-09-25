@@ -29,7 +29,10 @@
     .name { font-size: 22px; font-weight: 900; }
     .sub { font-size: 13px; opacity: .75; margin-top: 2px; }
     .record { font-size: 28px; font-weight: 900; margin-top: 6px; }
-    .badge { display: inline-flex; align-items:center; gap:6px; font-weight:800; font-size:12px; padding:6px 10px; border-radius:999px; background:#fff7d6; border:1px solid #c9a227; }
+    .badge { display: inline-flex; align-items:center; gap:6px; font-weight:800; font-size:12px; padding:6px 10px; border-radius:999px; background:#fff7d6; border:1px solid #c9a227; white-space:nowrap; }
+    /* 優勝バッジ：金星（淡い金の枠線）と区別するため紫の塗りつぶし */
+    .badge.champion { background:#5b4b8a; border-color:#4a3c73; color:#fff; }
+    .badges { display:flex; flex-wrap:wrap; gap:6px; justify-content:flex-end; }
     table { width:100%; border-collapse: collapse; margin-top: 10px; }
     th, td { border-bottom:1px solid #eee; padding:10px 8px; text-align:left; font-size: 14px; }
     th { font-size:12px; opacity:.7; }
@@ -224,6 +227,21 @@
     </thead>
     <tbody id="rows"></tbody>
   </table>
+
+  <section id="playoff-section" hidden>
+    <h2 style="margin:24px 0 6px;">優勝決定戦</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>結果</th>
+          <th>相手</th>
+          <th>決まり手</th>
+          <th>動画</th>
+        </tr>
+      </thead>
+      <tbody id="playoff-rows"></tbody>
+    </table>
+  </section>
 </div>
 
 <script>
@@ -248,6 +266,10 @@
     "2026_7gatsu": {
       label: "2026年七月場所",
       file: "data-2026-7gatsu.json"
+    },
+    "2026_9gatsu": {
+      label: "2026年九月場所",
+      file: "data-2026-9gatsu.json"
     }
   };
 
@@ -255,7 +277,29 @@
     const params = new URLSearchParams(window.location.search);
     const t = params.get("t");
     if (t && TOURNAMENTS[t]) return t;
-    return "hatsu";
+    return Object.keys(TOURNAMENTS)[0];
+  }
+
+  function championLabel(div){
+    const name = JP_DIVISION[div];
+    return name ? `${name}優勝` : "優勝";
+  }
+
+  /* 改名した力士は当時の四股名フォルダに画像が無いことがあるので現四股名も試す */
+  function fallbackPhotoSrc(r){
+    const current = r.current_shikona || "";
+    if (!current || current === r.shikona) return "";
+    return `./images/${current}/image.jpg`;
+  }
+
+  function onPhotoError(img){
+    const fallback = img.dataset.fallbackSrc;
+    if (fallback) {
+      img.dataset.fallbackSrc = "";
+      img.src = fallback;
+      return;
+    }
+    img.style.display = "none";
   }
 
   function renderTournamentTabs() {
@@ -336,6 +380,8 @@
 
     const divJP = JP_DIVISION[r.division] || r.division;
     const kin = (r.kinboshi_count || 0) > 0;
+    const champion = !!r.is_champion;
+    const renamed = r.current_shikona && r.current_shikona !== r.shikona;
     const profile = document.getElementById("profile");
     profile.className = "card" + (kin ? " kinboshi" : "");
 
@@ -355,19 +401,22 @@
     profile.innerHTML = `
         <div class="profile-main">
             <div class="profile-photo-wrap">
-            <img class="profile-photo" src="./images/${r.shikona || ''}/image.jpg" alt="${r.shikona}" onerror="this.style.display='none'">
+            <img class="profile-photo" src="./images/${r.shikona || ''}/image.jpg" alt="${r.shikona}" data-fallback-src="${fallbackPhotoSrc(r)}" onerror="onPhotoError(this)">
             </div>
 
             <div class="profile-info">
             <div class="profile-top">
                 <div>
                 <div class="name">${r.shikona}</div>
-                <div class="sub">${r.rank} / ${divJP}</div>
+                <div class="sub">${r.rank} / ${divJP}${renamed ? `（現・${r.current_shikona}）` : ``}</div>
                 <div class="record">${r.wins}–${r.losses}</div>
                 </div>
 
                 <div style="display:flex; gap:10px; align-items:flex-start;">
-                    ${kin ? `<div class="badge">金星★</div>` : ``}
+                    <div class="badges">
+                        ${champion ? `<div class="badge champion">${championLabel(r.division)}</div>` : ``}
+                        ${kin ? `<div class="badge">金星★</div>` : ``}
+                    </div>
                     <button class="oshi-btn oshi-icon" type="button" data-oshi-id="${r.id}" aria-label="推し">
                         <span class="icon">♡</span>
                     </button>
@@ -390,7 +439,7 @@
     if (ob) updateOshiButton(ob, r.id);
 
     const bouts = data.bouts
-      .filter(b => b.rikishi_id === id)
+      .filter(b => b.rikishi_id === id && (b.bout_type || "REGULAR") === "REGULAR")
       .sort((a,b) => (a.day_no ?? 999) - (b.day_no ?? 999));
 
     document.getElementById("meta").textContent =
@@ -411,6 +460,39 @@
             ${isToday ? `<span class="today-badge">今日</span>` : ``}
             ${isKin ? `<span class="badge" style="padding:3px 8px; font-size:11px;">金星★</span>` : "" }
           </td>
+          <td>${b.opponent || ""}</td>
+          <td>${b.kimarite || ""}</td>
+          <td>${video}</td>
+        </tr>
+      `;
+    }).join("");
+
+    renderPlayoff(r);
+  }
+
+  function renderPlayoff(r) {
+    const section = document.getElementById("playoff-section");
+    const rows = document.getElementById("playoff-rows");
+    if (!section || !rows) return;
+
+    const playoffBouts = (Array.isArray(r.playoff_bouts) ? r.playoff_bouts : [])
+      .slice()
+      .sort((a,b) => (a.playoff_no ?? 999) - (b.playoff_no ?? 999));
+
+    if (playoffBouts.length === 0) {
+      section.hidden = true;
+      rows.innerHTML = "";
+      return;
+    }
+
+    section.hidden = false;
+    rows.innerHTML = playoffBouts.map(b => {
+      const video = b.video_url
+        ? `<a class="btn" href="${b.video_url}" target="_blank" rel="noreferrer">▶</a>`
+        : `<span class="muted">—</span>`;
+      return `
+        <tr>
+          <td>${pill(b.result)}</td>
           <td>${b.opponent || ""}</td>
           <td>${b.kimarite || ""}</td>
           <td>${video}</td>
